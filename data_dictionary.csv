@@ -1,0 +1,7 @@
+column_name,data_type,sample_value_1,sample_value_2,sample_value_3,nullable,description_fill_in
+session_id,object/numeric,S0001,S0002,S0003,No,session_id — [Learner to fill in description]
+user_query_type,object/numeric,query_type_5,query_type_4,query_type_3,No,user_query_type — [Learner to fill in description]
+intent,object/numeric,grievance,admissions,hostel,No,intent — [Learner to fill in description]
+confidence_score,object/numeric,0.682,0.802,0.896,No,confidence_score — [Learner to fill in description]
+escalated,object/numeric,0,0,0,No,escalated — [Learner to fill in description]
+user_rating,object/numeric,5,5,3,No,user_rating — [Learner to fill in description]

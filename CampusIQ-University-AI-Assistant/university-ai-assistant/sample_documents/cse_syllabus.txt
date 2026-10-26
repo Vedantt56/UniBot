@@ -1,0 +1,7 @@
+DEMO STATE UNIVERSITY — FICTIONAL SAMPLE DOCUMENT
+Bachelor of Technology — Computer Science, Semester 3
+Data Structures: 4 credits; topics include arrays, linked lists, stacks, queues, trees and sorting.
+Discrete Mathematics: 4 credits; topics include logic, relations, graph theory and counting.
+Database Management Systems: 3 credits; topics include relational models, SQL and normalization.
+Programming Laboratory: 2 credits; practice with implementation and testing of fundamental algorithms.
+This sample document does not list prerequisite courses.
